@@ -1,0 +1,11 @@
+{
+  "profiles": [
+    {
+      "email": "your_email@company.com",
+      "display_name": "Your Name",
+      "smtp_server": "smtphz.qiye.163.com",
+      "smtp_port": 465,
+      "use_ssl": true
+    }
+  ]
+}
